@@ -26,4 +26,4 @@ npm run start
 # Lauch
 The running application can be seen by opening the browser with the following address: 
 
-## [localhost:8080](localhost:8080)
+http://localhost:8080  
